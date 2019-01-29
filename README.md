@@ -13,4 +13,4 @@ Below are some images of the app flow:
 And key code snippet
 
 
-![img 4](./rm3.jpg)
+![img 4](./rm4.jpg)
